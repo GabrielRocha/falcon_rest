@@ -1,0 +1,5 @@
+{"amigos": [{"latitude":1, "longitude":2, "nome":"rocha"},
+            {"latitude":1, "longitude":3, "nome":"2"},
+            {"latitude":1, "longitude":4, "nome":"3"},
+            {"latitude":3, "longitude":1, "nome":"4"},
+            {"latitude":2, "longitude":2, "nome":"5"}]}
